@@ -1,1 +1,1 @@
-Search.setIndex({envversion:42,terms:{content:0,index:0,modul:0,search:0,page:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to EnergyEffCloud&#8217;s documentation!"],objects:{},titleterms:{indic:0,document:0,welcom:0,energyeffcloud:0,tabl:0}})
+Search.setIndex({envversion:42,terms:{content:0,index:0,modul:0,search:0,page:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to batbooomer an Efficient EnergyApp !"],objects:{},titleterms:{energyapp:0,welcom:0,indic:0,batbooom:0,tabl:0,effici:0,document:[],energyeffcloud:[]}})
